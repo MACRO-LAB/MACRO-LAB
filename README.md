@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Fadi002/Fadi002/output/snake.svg"/>
 <img src="https://komarev.com/ghpvc/?username=MACRO-LAB&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -26,4 +25,5 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MACRO-LAB&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MACRO-LAB&layout=compact)](https://github.com/MACRO-LAB/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MACRO-LAB)](https://github.com/anuraghazra/github-readme-stats)
